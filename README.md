@@ -1,35 +1,66 @@
-# Hi there, I'm Zahra Mansouri! 👋
+<h2 align="left">Hi 👋! My name is zahra and I'm a developer from Iran</h2>
 
-I’m a **Front-End Developer** passionate about creating beautiful and functional web applications. 🌟 Currently, I’m working and learning new skills in front-end development.
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amaz2-pixel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaz2-pixel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  alt="next" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-### 🌱 What I’m Learning:
-- Advanced **Next.js** techniques
-- Building scalable projects with **Docker**
+###
 
----
+<div align="left">
+  <a href="zahra-mnsury" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="zahramansouri1010@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/zahra-mansouri-0bb725232/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 📫 How to Reach Me:
-- **Email:** zahramansouri1010@gmail.com
-- **LinkedIn:** [zahra-mansouri](https://www.linkedin.com/in/zahra-mansouri-0bb725232/)
+###
 
+<img src="https://raw.githubusercontent.com/amaz2-pixel/amaz2-pixel/output/snake.svg" alt="Snake animation" />
 
+###
 
-### 🌟 Fun Fact:
-I love creating and exploring new ideas while mastering front-end development! 🚀
+<img align="left" height="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"  />
+
+###
+
+<p align="left">I'm currently working on improving my front-end skills 🎨💻 and building creative projects 🚀✨ to challenge myself and grow as a developer!</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/amaz2-pixel/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
