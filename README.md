@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Zahra Mansouri! 👋
 
-<!--
-**amaz2-pixel/amaz2-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Front-End Developer** passionate about creating beautiful and functional web applications. 🌟 Currently, I’m working and learning new skills in front-end development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Languages:** HTML, CSS, JavaScript, Python, C++
+- **Frameworks/Libraries:** React, Next.js
+- **Tools:** Git, Docker
+- **Other Skills:** Networking
+
+---
+
+### 🌱 What I’m Learning:
+- Advanced **Next.js** techniques
+- Building scalable projects with **Docker**
+
+---
+
+### 📫 How to Reach Me:
+- **Email:** zahramansouri1010@gmail.com
+- **LinkedIn:** [zahra-mansouri](https://www.linkedin.com/in/zahra-mansouri-0bb725232/)
+
+
+
+### 🌟 Fun Fact:
+I love creating and exploring new ideas while mastering front-end development! 🚀
